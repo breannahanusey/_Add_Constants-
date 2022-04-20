@@ -1,0 +1,2 @@
+# _Add_Constants-
+#AutoIt3Wrapper_Add_Constants=                  ;Add the needed standard constant include files. Will only run one time. ; Optional ; Use this format to have separate directive values for Run and Compile #AutoIt3Wrapper_If_Run     #AutoIt3Wrapper_Run_Au3Check=Y     #AutoIt3Wrapper_Run_Tidy=Y     [...] #Autoit3Wrapper_If_Compile     #AutoIt3Wrapper_Run_Au3Check=N     #AutoIt3Wrapper_Run_Tidy=N     [...] #AutoIt3Wrapper_EndIf #EndRegionevel=
